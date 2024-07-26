@@ -1,1 +1,1 @@
-# retro-game
+# regular
